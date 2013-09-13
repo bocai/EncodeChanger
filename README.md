@@ -3,7 +3,7 @@ EncodeChanger
 
 文本文件字符集编码转换器
 
-	EncodeChanger.jar 是运行的jar程序。
+	EncodeChanger.jar 是可运行的jar程序。
 	
 	另外：
 	程序中使用这个jar包 http://commons.apache.org/io/download_io.cgi 进行编码转换；
